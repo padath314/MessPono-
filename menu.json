@@ -1,0 +1,51 @@
+{
+    "MON":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ],
+    "TUE":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ],
+    "WED":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ],
+    "THU":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ],
+    "FRI":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ],
+    "SAT":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ],
+    "SUN":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ],
+    "DAILY":[
+        {"Breakfast":["Black Chana/moong Sprouts", "Bread","Butter", "Jam", "Milk", "Tea", "Coffee"]},
+        {"Lunch":["White Rice", "Fryums/Pappad", "Juice", "Pickle", "Onion","Salad"]},
+        {"Snacks":["Milk", "Tea","Coffee"]},
+        {"Dinner":["Fryums/Pappad/Appalam", "Salad", "Pickle"]}
+    ]
+
+    }
